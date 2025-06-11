@@ -1,0 +1,15 @@
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\bin\Debug\net6.0\03ExecicioEscolar.exe
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\bin\Debug\net6.0\03ExecicioEscolar.deps.json
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\bin\Debug\net6.0\03ExecicioEscolar.runtimeconfig.json
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\bin\Debug\net6.0\03ExecicioEscolar.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\bin\Debug\net6.0\03ExecicioEscolar.pdb
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.csproj.AssemblyReference.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.AssemblyInfoInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.AssemblyInfo.cs
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.csproj.CoreCompileInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\refint\03ExecicioEscolar.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.pdb
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\03ExecicioEscolar.genruntimeconfig.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\03ExecicioEscolar\obj\Debug\net6.0\ref\03ExecicioEscolar.dll

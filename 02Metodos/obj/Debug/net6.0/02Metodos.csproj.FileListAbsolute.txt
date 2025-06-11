@@ -1,0 +1,15 @@
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.csproj.AssemblyReference.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.AssemblyInfoInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.AssemblyInfo.cs
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\bin\Debug\net6.0\02Metodos.exe
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\bin\Debug\net6.0\02Metodos.deps.json
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\bin\Debug\net6.0\02Metodos.runtimeconfig.json
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\bin\Debug\net6.0\02Metodos.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\bin\Debug\net6.0\02Metodos.pdb
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\refint\02Metodos.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.pdb
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\02Metodos.genruntimeconfig.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\02Metodos\obj\Debug\net6.0\ref\02Metodos.dll
