@@ -1,0 +1,5 @@
+C:\Projetos\ORIENTAÇÃO A OBJETOS\09This\obj\Debug\net6.0\09This.csproj.AssemblyReference.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\09This\obj\Debug\net6.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ORIENTAÇÃO A OBJETOS\09This\obj\Debug\net6.0\09This.AssemblyInfoInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\09This\obj\Debug\net6.0\09This.AssemblyInfo.cs
+C:\Projetos\ORIENTAÇÃO A OBJETOS\09This\obj\Debug\net6.0\09This.csproj.CoreCompileInputs.cache
