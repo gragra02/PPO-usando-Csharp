@@ -1,0 +1,15 @@
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\bin\Debug\net6.0\04ExecicioIMC.exe
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\bin\Debug\net6.0\04ExecicioIMC.deps.json
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\bin\Debug\net6.0\04ExecicioIMC.runtimeconfig.json
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\bin\Debug\net6.0\04ExecicioIMC.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\bin\Debug\net6.0\04ExecicioIMC.pdb
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.csproj.AssemblyReference.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.AssemblyInfoInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.AssemblyInfo.cs
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.csproj.CoreCompileInputs.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\refint\04ExecicioIMC.dll
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.pdb
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\04ExecicioIMC.genruntimeconfig.cache
+C:\Projetos\ORIENTAÇÃO A OBJETOS\04ExecicioIMC\obj\Debug\net6.0\ref\04ExecicioIMC.dll
