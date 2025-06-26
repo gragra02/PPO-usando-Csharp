@@ -3,7 +3,7 @@
 namespace _10Herança
 
 {
-    class Program
+     class Program
     {
         static void Main(string[] args)
         {

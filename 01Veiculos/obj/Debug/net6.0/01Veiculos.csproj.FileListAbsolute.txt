@@ -1,0 +1,15 @@
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\bin\Debug\net6.0\01Veiculos.exe
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\bin\Debug\net6.0\01Veiculos.deps.json
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\bin\Debug\net6.0\01Veiculos.runtimeconfig.json
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\bin\Debug\net6.0\01Veiculos.dll
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\bin\Debug\net6.0\01Veiculos.pdb
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.csproj.AssemblyReference.cache
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.AssemblyInfoInputs.cache
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.AssemblyInfo.cs
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.dll
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\refint\01Veiculos.dll
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.pdb
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\01Veiculos.genruntimeconfig.cache
+C:\Users\Lara\PPO-usando-Csharp\01Veiculos\obj\Debug\net6.0\ref\01Veiculos.dll
