@@ -1,0 +1,15 @@
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\bin\Debug\net6.0\02Pessoas.exe
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\bin\Debug\net6.0\02Pessoas.deps.json
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\bin\Debug\net6.0\02Pessoas.runtimeconfig.json
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\bin\Debug\net6.0\02Pessoas.dll
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\bin\Debug\net6.0\02Pessoas.pdb
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.csproj.AssemblyReference.cache
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.AssemblyInfoInputs.cache
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.AssemblyInfo.cs
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.dll
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\refint\02Pessoas.dll
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.pdb
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\02Pessoas.genruntimeconfig.cache
+C:\Users\Lara\PPO-usando-Csharp\02Pessoas\obj\Debug\net6.0\ref\02Pessoas.dll
